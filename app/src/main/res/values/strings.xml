@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClassParseRecycler</string>
+    <string name="image_from_parse_server">Image from Parse Server</string>
+    <string name="like_button">Like Button</string>
+    <string name="comment_button">comment_button</string>
+</resources>
